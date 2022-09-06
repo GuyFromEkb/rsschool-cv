@@ -24,6 +24,7 @@ I work in the company as a junior front-end, and really like what I do. My targe
 - Gulp, Webpack.
 - Figma
 
+# Code example
 
 ```js
 //In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
@@ -37,3 +38,10 @@ function highAndLow(numb) {
     return `${Math.max(...arr)} ${Math.min(...arr)}`
 }
 ```
+
+# Courses
+https://www.udemy.com/course/javascript_full/ js react
+https://www.udemy.com/course/webdeveloper/ css HTML
+https://www.udemy.com/course/javascript_practice/ js 
+https://www.udemy.com/course/react-from-scratch/ react 
+https://www.udemy.com/course/redux-react/ react redux
