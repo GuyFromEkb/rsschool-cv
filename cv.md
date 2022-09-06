@@ -1,5 +1,7 @@
 # Perepelkin Sergey
-![Myself](https://picsum.photos/800/600)
+
+![Myself](https://avatars.githubusercontent.com/u/95606359?v=4)
+
 # Contacts
 
 - **Discord:** Joyful#0100
@@ -45,9 +47,9 @@ function highAndLow(numb) {
 **Last pet-projects:**
 
 - [SlonUm](https://github.com/GuyFromEkb/react-final-task) (React with many animation)
-- [SlonUm](https://github.com/GuyFromEkb/react_bastion-tasks) (React/Redux/Route)
-- [SlonUm](https://github.com/GuyFromEkb/todo-ts-mobx-react) (React/Mobx/Redux)
-- [SlonUm](https://react-type-script-fortnite-api-shop.vercel.app/) (React/UseReducer/UseContext)
+- [Bastion](https://github.com/GuyFromEkb/react_bastion-tasks) (React/Redux/Route)
+- [TodoList](https://github.com/GuyFromEkb/todo-ts-mobx-react) (React/Mobx/Redux)
+- [FortniteShop](https://react-type-script-fortnite-api-shop.vercel.app/) (React/UseReducer/UseContext)
 
 more projects at [gh page](https://guyfromekb.github.io/)
 
@@ -64,6 +66,6 @@ more projects at [gh page](https://guyfromekb.github.io/)
 - Russian
 - English - A2/b1
 
-## English
+### English
 
 I try to learn English. I use Duolingo and google translate
