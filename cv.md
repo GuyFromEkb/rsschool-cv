@@ -2,7 +2,6 @@
 
 # Contacts
 
-- **Phone:** +79021889882
 - **Discord:** Joyful#0100
 - **Telegram:** [@GuyFromEkb](https://t.me/GuyFromEkb)
 - **E-mail:** [graygmai1@gmail.com](graygmai1@gmail.com)
@@ -10,7 +9,7 @@
 
 # About Myself:
 
-I work in the company as a junior front-end, and really like what I do. My target to become a professional in my field. I love sport and coding and hope that my ability to learn and acquire new skills will help me go this way and become an experienced Front end developer.
+I work in the company as a junior front-end, and really like what I do. My target to become a professional in my field. I love sport and coding. I hope that my ability to learn and acquire new skills will help me go this way and become an experienced Front end developer.
 
 # Skills
 
@@ -43,7 +42,14 @@ function highAndLow(numb) {
 
 2 weeks in company "Apricode" :)
 
-but i have pet-projects in my [gh page](https://guyfromekb.github.io/)
+**Last pet-projects:**
+
+- [SlonUm](https://github.com/GuyFromEkb/react-final-task) (React with many animation)
+- [SlonUm](https://github.com/GuyFromEkb/react_bastion-tasks) (React/Redux/Route)
+- [SlonUm](https://github.com/GuyFromEkb/todo-ts-mobx-react) (React/Mobx/Redux)
+- [SlonUm](https://react-type-script-fortnite-api-shop.vercel.app/) (React/UseReducer/UseContext)
+
+more projects at [gh page](https://guyfromekb.github.io/)
 
 # Courses
 
@@ -60,4 +66,4 @@ but i have pet-projects in my [gh page](https://guyfromekb.github.io/)
 
 ## English
 
-I try to learn English every day. I use Duolingo and google translate
+I try to learn English. I use Duolingo and google translate
