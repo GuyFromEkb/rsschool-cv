@@ -34,14 +34,30 @@ I work in the company as a junior front-end, and really like what I do. My targe
 //highAndLow("1 9 3 4 -5"); // return "9 -5"
 
 function highAndLow(numb) {
-    const arr = numb.split(" ").map(item => parseInt(item))
-    return `${Math.max(...arr)} ${Math.min(...arr)}`
+	const arr = numb.split(" ").map((item) => parseInt(item));
+	return `${Math.max(...arr)} ${Math.min(...arr)}`;
 }
 ```
 
+# Experience
+
+2 weeks in company "Apricode" :)
+
+but i have pet-projects in my [gh page](https://guyfromekb.github.io/)
+
 # Courses
-https://www.udemy.com/course/javascript_full/ js react
-https://www.udemy.com/course/webdeveloper/ css HTML
-https://www.udemy.com/course/javascript_practice/ js 
-https://www.udemy.com/course/react-from-scratch/ react 
-https://www.udemy.com/course/redux-react/ react redux
+
+- [Css/HTML](https://www.udemy.com/course/webdeveloper/)
+- [Js](https://www.udemy.com/course/javascript_practice/)
+- [Js/React](https://www.udemy.com/course/javascript_full/)
+- [React](https://www.udemy.com/course/react-from-scratch/)
+- [React/Redux](https://www.udemy.com/course/redux-react/)
+
+# Languages
+
+- Russian
+- English - A2/b1
+
+## English
+
+I try to learn English every day. I use Duolingo and google translate
