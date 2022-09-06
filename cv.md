@@ -10,10 +10,16 @@
 
 # About Myself:
 
-i`m working in small company 
-I'm currently working several small web projects (example: [speakers.az](http://speakers.az/)).My goal is to learn everything new and exciting. I love to code and coffee. I can(love) spend a lot of time doing what interests me. My core strengths are in problem solving and fast learning.I want to get knowledge and skills that will be enough for employment in a company.
+I work in the company as a junior front-end, and really like what I do. My target to become a professional in my field. I love sport and coding and hope that my ability to learn and acquire new skills will help me go this way and become an experienced Front end developer.
 
+# Skills
 
-I work in company in the position of junior front end. I want to become a professional in my field.
-i think  i am a good worker and very willing to learn and develop new skills.
-I hope that my ability to learn and acquire new skills will help me go this way and become an experienced Front end developer.
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- C# (basic knowledge)
+- React (state: redux,mobX)
+- Git (GitHub/GitLab).
+- Gulp, Webpack.
+- Figma
